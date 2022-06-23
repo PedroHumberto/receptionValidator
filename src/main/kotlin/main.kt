@@ -1,7 +1,7 @@
-import control.Portaria
+import control.Reception
 
 fun main() {
-    Portaria()
+    Reception()
 }
 
 
